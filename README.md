@@ -15,3 +15,6 @@ Features:
 4. Load existing expenses from a file.
 
 5. Calculate total expenses for better budgeting.
+
+Clone:
+git clone https://github.com/Roronoa54/Expense-Tracker.git
