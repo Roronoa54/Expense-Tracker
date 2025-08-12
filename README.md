@@ -17,4 +17,6 @@ Features:
 5. Calculate total expenses for better budgeting.
 
 Clone:
+
+```bash
 git clone https://github.com/Roronoa54/Expense-Tracker.git
